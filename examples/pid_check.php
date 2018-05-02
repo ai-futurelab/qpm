@@ -1,6 +1,7 @@
 <?php
 /**
  * @author bigbigant
+ * get PID by PID manager
  */
 
 require __DIR__ . '/bootstrap.inc.php';
